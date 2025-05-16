@@ -35,3 +35,5 @@ To run the notebooks locally:
     pip install -r [PROJECT FOLDER]/requirements.txt
     ```
     Change [PROJECT FOLDER] to the correct project
+
+3. Open and run the `main.ipynb` notebook to execute the code and view results
